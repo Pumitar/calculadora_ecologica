@@ -174,4 +174,5 @@ label {
 
 .prueba{
     padding: 50px;
+    font: inherit;
 }
